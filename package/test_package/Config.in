@@ -1,0 +1,4 @@
+config BR2_PACKAGE_TEST_PACKAGE
+    bool "test_package"
+    help
+        package for testing purposes

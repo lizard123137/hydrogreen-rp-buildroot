@@ -1,0 +1,1 @@
+source "$BR2_EXTERNAL_HYDROGREEN_PATH/package/test_package/Config.in"
